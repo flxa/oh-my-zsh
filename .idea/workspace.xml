@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78cd905c-144f-4bc2-b1e4-8a8ae1b30111" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/.gitkeep" afterPath="$PROJECT_DIR$/cache/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/.gitkeep" afterPath="$PROJECT_DIR$/log/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/autopep8/autopep8.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/autopep8/autopep8.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/catimg/colors.png" afterPath="$PROJECT_DIR$/plugins/catimg/colors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/example.zsh" afterPath="$PROJECT_DIR$/custom/example.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/plugins/example/example.plugin.zsh" afterPath="$PROJECT_DIR$/custom/plugins/example/example.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/bzr.zsh" afterPath="$PROJECT_DIR$/lib/bzr.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/clipboard.zsh" afterPath="$PROJECT_DIR$/lib/clipboard.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/compfix.zsh" afterPath="$PROJECT_DIR$/lib/compfix.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/completion.zsh" afterPath="$PROJECT_DIR$/lib/completion.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/correction.zsh" afterPath="$PROJECT_DIR$/lib/correction.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/diagnostics.zsh" afterPath="$PROJECT_DIR$/lib/diagnostics.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/directories.zsh" afterPath="$PROJECT_DIR$/lib/directories.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/functions.zsh" afterPath="$PROJECT_DIR$/lib/functions.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/git.zsh" afterPath="$PROJECT_DIR$/lib/git.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/grep.zsh" afterPath="$PROJECT_DIR$/lib/grep.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/history.zsh" afterPath="$PROJECT_DIR$/lib/history.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/key-bindings.zsh" afterPath="$PROJECT_DIR$/lib/key-bindings.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/misc.zsh" afterPath="$PROJECT_DIR$/lib/misc.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/nvm.zsh" afterPath="$PROJECT_DIR$/lib/nvm.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/prompt_info_functions.zsh" afterPath="$PROJECT_DIR$/lib/prompt_info_functions.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/spectrum.zsh" afterPath="$PROJECT_DIR$/lib/spectrum.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/termsupport.zsh" afterPath="$PROJECT_DIR$/lib/termsupport.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/theme-and-appearance.zsh" afterPath="$PROJECT_DIR$/lib/theme-and-appearance.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oh-my-zsh.sh" afterPath="$PROJECT_DIR$/oh-my-zsh.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/adb/README.md" afterPath="$PROJECT_DIR$/plugins/adb/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/adb/_adb" afterPath="$PROJECT_DIR$/plugins/adb/_adb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ant/ant.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/ant/ant.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/apache2-macports/README.md" afterPath="$PROJECT_DIR$/plugins/apache2-macports/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/apache2-macports/apache2-macports.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/apache2-macports/apache2-macports.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/arcanist/README.md" afterPath="$PROJECT_DIR$/plugins/arcanist/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/arcanist/arcanist.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/arcanist/arcanist.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/archlinux/README.md" afterPath="$PROJECT_DIR$/plugins/archlinux/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/archlinux/archlinux.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/archlinux/archlinux.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/asdf/README.md" afterPath="$PROJECT_DIR$/plugins/asdf/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/asdf/asdf.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/asdf/asdf.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/autoenv/autoenv.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/autoenv/autoenv.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/autojump/autojump.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/autojump/autojump.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/autopep8/_autopep8" afterPath="$PROJECT_DIR$/plugins/autopep8/_autopep8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/aws/aws.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/aws/aws.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/battery/battery.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/battery/battery.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bbedit/README.md" afterPath="$PROJECT_DIR$/plugins/bbedit/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bbedit/bbedit.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/bbedit/bbedit.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bgnotify/README.md" afterPath="$PROJECT_DIR$/plugins/bgnotify/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/boot2docker/README.md" afterPath="$PROJECT_DIR$/plugins/boot2docker/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/boot2docker/_boot2docker" afterPath="$PROJECT_DIR$/plugins/boot2docker/_boot2docker" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bower/_bower" afterPath="$PROJECT_DIR$/plugins/bower/_bower" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bower/bower.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/bower/bower.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/branch/README.md" afterPath="$PROJECT_DIR$/plugins/branch/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/branch/branch.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/branch/branch.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/brew/brew.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/brew/brew.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bundler/README.md" afterPath="$PROJECT_DIR$/plugins/bundler/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bundler/_bundler" afterPath="$PROJECT_DIR$/plugins/bundler/_bundler" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bundler/bundler.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/bundler/bundler.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/bwana/bwana.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/bwana/bwana.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cabal/cabal.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/cabal/cabal.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cake/cake.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/cake/cake.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cakephp3/cakephp3.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/cakephp3/cakephp3.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/capistrano/_capistrano" afterPath="$PROJECT_DIR$/plugins/capistrano/_capistrano" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/capistrano/capistrano.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/capistrano/capistrano.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cargo/README.md" afterPath="$PROJECT_DIR$/plugins/cargo/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cargo/_cargo" afterPath="$PROJECT_DIR$/plugins/cargo/_cargo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cask/README.md" afterPath="$PROJECT_DIR$/plugins/cask/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cask/cask.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/cask/cask.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/catimg/catimg.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/catimg/catimg.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/celery/_celery" afterPath="$PROJECT_DIR$/plugins/celery/_celery" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/chruby/chruby.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/chruby/chruby.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/chucknorris/.gitignore" afterPath="$PROJECT_DIR$/plugins/chucknorris/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/chucknorris/LICENSE" afterPath="$PROJECT_DIR$/plugins/chucknorris/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/chucknorris/chucknorris.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/chucknorris/chucknorris.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/chucknorris/fortunes/chucknorris" afterPath="$PROJECT_DIR$/plugins/chucknorris/fortunes/chucknorris" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cloudapp/cloudapp.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/cloudapp/cloudapp.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/codeclimate/_codeclimate" afterPath="$PROJECT_DIR$/plugins/codeclimate/_codeclimate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/coffee/README.md" afterPath="$PROJECT_DIR$/plugins/coffee/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/coffee/_coffee" afterPath="$PROJECT_DIR$/plugins/coffee/_coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/coffee/coffee.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/coffee/coffee.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/colemak/colemak-less" afterPath="$PROJECT_DIR$/plugins/colemak/colemak-less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/colemak/colemak.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/colemak/colemak.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/colored-man-pages/colored-man-pages.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/colored-man-pages/colored-man-pages.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/colorize/colorize.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/colorize/colorize.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/command-not-found/command-not-found.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/command-not-found/command-not-found.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/common-aliases/common-aliases.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/common-aliases/common-aliases.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/compleat/compleat.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/compleat/compleat.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/composer/composer.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/composer/composer.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/copybuffer/README.md" afterPath="$PROJECT_DIR$/plugins/copybuffer/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/copybuffer/copybuffer.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/copybuffer/copybuffer.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/copydir/copydir.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/copydir/copydir.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/copyfile/copyfile.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/copyfile/copyfile.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cp/README.md" afterPath="$PROJECT_DIR$/plugins/cp/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cp/cp.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/cp/cp.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/cpanm/_cpanm" afterPath="$PROJECT_DIR$/plugins/cpanm/_cpanm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/debian/debian.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/debian/debian.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dircycle/dircycle.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/dircycle/dircycle.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dirhistory/dirhistory.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/dirhistory/dirhistory.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dirpersist/dirpersist.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/dirpersist/dirpersist.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/django/django.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/django/django.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dnf/dnf.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/dnf/dnf.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/docker-compose/README.md" afterPath="$PROJECT_DIR$/plugins/docker-compose/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/docker-compose/_docker-compose" afterPath="$PROJECT_DIR$/plugins/docker-compose/_docker-compose" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/docker-compose/docker-compose.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/docker-compose/docker-compose.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/docker/README.md" afterPath="$PROJECT_DIR$/plugins/docker/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/docker/_docker" afterPath="$PROJECT_DIR$/plugins/docker/_docker" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dotenv/README.md" afterPath="$PROJECT_DIR$/plugins/dotenv/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/dotenv/dotenv.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/dotenv/dotenv.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/droplr/README.md" afterPath="$PROJECT_DIR$/plugins/droplr/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/droplr/droplr.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/droplr/droplr.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emacs/emacs.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/emacs/emacs.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ember-cli/README.md" afterPath="$PROJECT_DIR$/plugins/ember-cli/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ember-cli/ember-cli.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/ember-cli/ember-cli.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emoji-clock/emoji-clock.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/emoji-clock/emoji-clock.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emoji/README.md" afterPath="$PROJECT_DIR$/plugins/emoji/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emoji/emoji-char-definitions.zsh" afterPath="$PROJECT_DIR$/plugins/emoji/emoji-char-definitions.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emoji/emoji-data.txt" afterPath="$PROJECT_DIR$/plugins/emoji/emoji-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emoji/emoji.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/emoji/emoji.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emoji/update_emoji.pl" afterPath="$PROJECT_DIR$/plugins/emoji/update_emoji.pl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emotty/emotty.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/emotty/emotty.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emotty/emotty_emoji_set.zsh" afterPath="$PROJECT_DIR$/plugins/emotty/emotty_emoji_set.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emotty/emotty_floral_set.zsh" afterPath="$PROJECT_DIR$/plugins/emotty/emotty_floral_set.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emotty/emotty_love_set.zsh" afterPath="$PROJECT_DIR$/plugins/emotty/emotty_love_set.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emotty/emotty_nature_set.zsh" afterPath="$PROJECT_DIR$/plugins/emotty/emotty_nature_set.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emotty/emotty_stellar_set.zsh" afterPath="$PROJECT_DIR$/plugins/emotty/emotty_stellar_set.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/emotty/emotty_zodiac_set.zsh" afterPath="$PROJECT_DIR$/plugins/emotty/emotty_zodiac_set.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/encode64/encode64.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/encode64/encode64.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/extract/README.md" afterPath="$PROJECT_DIR$/plugins/extract/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/extract/_extract" afterPath="$PROJECT_DIR$/plugins/extract/_extract" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/extract/extract.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/extract/extract.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fabric/_fab" afterPath="$PROJECT_DIR$/plugins/fabric/_fab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fabric/fabric.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/fabric/fabric.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fancy-ctrl-z/README.md" afterPath="$PROJECT_DIR$/plugins/fancy-ctrl-z/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fancy-ctrl-z/fancy-ctrl-z.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/fancy-ctrl-z/fancy-ctrl-z.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fasd/fasd.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/fasd/fasd.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fastfile/fastfile.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/fastfile/fastfile.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fbterm/fbterm.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/fbterm/fbterm.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fedora/README.md" afterPath="$PROJECT_DIR$/plugins/fedora/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fedora/fedora.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/fedora/fedora.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/firewalld/firewalld.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/firewalld/firewalld.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/firewalld/readme.md" afterPath="$PROJECT_DIR$/plugins/firewalld/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/forklift/README.md" afterPath="$PROJECT_DIR$/plugins/forklift/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/forklift/forklift.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/forklift/forklift.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fossil/README.md" afterPath="$PROJECT_DIR$/plugins/fossil/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fossil/fossil.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/fossil/fossil.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/frontend-search/README.md" afterPath="$PROJECT_DIR$/plugins/frontend-search/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/frontend-search/_frontend-search.sh" afterPath="$PROJECT_DIR$/plugins/frontend-search/_frontend-search.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/frontend-search/frontend-search.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/frontend-search/frontend-search.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gas/_gas" afterPath="$PROJECT_DIR$/plugins/gas/_gas" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gb/README.md" afterPath="$PROJECT_DIR$/plugins/gb/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gb/_gb" afterPath="$PROJECT_DIR$/plugins/gb/_gb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/geeknote/README.md" afterPath="$PROJECT_DIR$/plugins/geeknote/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/geeknote/_geeknote" afterPath="$PROJECT_DIR$/plugins/geeknote/_geeknote" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/geeknote/geeknote.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/geeknote/geeknote.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gem/_gem" afterPath="$PROJECT_DIR$/plugins/gem/_gem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gem/gem.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/gem/gem.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-extras/README.md" afterPath="$PROJECT_DIR$/plugins/git-extras/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-extras/git-extras.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/git-extras/git-extras.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-flow-avh/git-flow-avh.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/git-flow-avh/git-flow-avh.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-flow/README.md" afterPath="$PROJECT_DIR$/plugins/git-flow/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-flow/git-flow.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/git-flow/git-flow.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-hubflow/git-hubflow.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/git-hubflow/git-hubflow.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-prompt/git-prompt.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/git-prompt/git-prompt.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-prompt/gitstatus.py" afterPath="$PROJECT_DIR$/plugins/git-prompt/gitstatus.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git-remote-branch/git-remote-branch.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/git-remote-branch/git-remote-branch.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git/README.md" afterPath="$PROJECT_DIR$/plugins/git/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/git/git.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/git/git.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gitfast/_git" afterPath="$PROJECT_DIR$/plugins/gitfast/_git" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gitfast/git-completion.bash" afterPath="$PROJECT_DIR$/plugins/gitfast/git-completion.bash" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gitfast/git-prompt.sh" afterPath="$PROJECT_DIR$/plugins/gitfast/git-prompt.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gitfast/gitfast.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/gitfast/gitfast.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/github/README.md" afterPath="$PROJECT_DIR$/plugins/github/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/github/_hub" afterPath="$PROJECT_DIR$/plugins/github/_hub" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/github/github.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/github/github.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gitignore/gitignore.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/gitignore/gitignore.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/glassfish/_asadmin" afterPath="$PROJECT_DIR$/plugins/glassfish/_asadmin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/glassfish/glassfish.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/glassfish/glassfish.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/globalias/README.md" afterPath="$PROJECT_DIR$/plugins/globalias/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/globalias/globalias.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/globalias/globalias.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gnu-utils/gnu-utils.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/gnu-utils/gnu-utils.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/golang/golang.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/golang/golang.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/golang/templates/package.txt" afterPath="$PROJECT_DIR$/plugins/golang/templates/package.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/golang/templates/search.txt" afterPath="$PROJECT_DIR$/plugins/golang/templates/search.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gpg-agent/gpg-agent.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/gpg-agent/gpg-agent.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gradle/gradle.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/gradle/gradle.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/grails/grails.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/grails/grails.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/grunt/grunt.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/grunt/grunt.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/gulp/gulp.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/gulp/gulp.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/heroku/_heroku" afterPath="$PROJECT_DIR$/plugins/heroku/_heroku" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/history-substring-search/README.md" afterPath="$PROJECT_DIR$/plugins/history-substring-search/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/history-substring-search/history-substring-search.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/history-substring-search/history-substring-search.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/history-substring-search/history-substring-search.zsh" afterPath="$PROJECT_DIR$/plugins/history-substring-search/history-substring-search.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/history/README.md" afterPath="$PROJECT_DIR$/plugins/history/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/history/history.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/history/history.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/httpie/README.md" afterPath="$PROJECT_DIR$/plugins/httpie/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/httpie/httpie.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/httpie/httpie.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/iwhois/iwhois.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/iwhois/iwhois.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jake-node/jake-node.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/jake-node/jake-node.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jhbuild/README.md" afterPath="$PROJECT_DIR$/plugins/jhbuild/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jhbuild/jhbuild.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/jhbuild/jhbuild.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jira/README.md" afterPath="$PROJECT_DIR$/plugins/jira/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jira/_jira" afterPath="$PROJECT_DIR$/plugins/jira/_jira" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jira/jira.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/jira/jira.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jruby/jruby.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/jruby/jruby.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jsontools/README.md" afterPath="$PROJECT_DIR$/plugins/jsontools/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jsontools/jsontools.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/jsontools/jsontools.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/jump/jump.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/jump/jump.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/kate/kate.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/kate/kate.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/kitchen/_kitchen" afterPath="$PROJECT_DIR$/plugins/kitchen/_kitchen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/knife/_knife" afterPath="$PROJECT_DIR$/plugins/knife/_knife" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/knife_ssh/knife_ssh.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/knife_ssh/knife_ssh.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/kubectl/kubectl.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/kubectl/kubectl.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/laravel/_artisan" afterPath="$PROJECT_DIR$/plugins/laravel/_artisan" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/laravel/laravel.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/laravel/laravel.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/laravel4/laravel4.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/laravel4/laravel4.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/laravel5/laravel5.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/laravel5/laravel5.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/last-working-dir/README.md" afterPath="$PROJECT_DIR$/plugins/last-working-dir/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/last-working-dir/last-working-dir.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/last-working-dir/last-working-dir.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/lein/lein.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/lein/lein.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/lighthouse/lighthouse.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/lighthouse/lighthouse.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/lol/lol.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/lol/lol.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/macports/_port" afterPath="$PROJECT_DIR$/plugins/macports/_port" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/macports/macports.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/macports/macports.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/man/man.zsh" afterPath="$PROJECT_DIR$/plugins/man/man.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/marked2/README.md" afterPath="$PROJECT_DIR$/plugins/marked2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/marked2/marked2.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/marked2/marked2.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mercurial/README.md" afterPath="$PROJECT_DIR$/plugins/mercurial/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mercurial/mercurial.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/mercurial/mercurial.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/meteor/README.md" afterPath="$PROJECT_DIR$/plugins/meteor/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/meteor/_meteor" afterPath="$PROJECT_DIR$/plugins/meteor/_meteor" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/meteor/meteor.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/meteor/meteor.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mix-fast/README.md" afterPath="$PROJECT_DIR$/plugins/mix-fast/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mix-fast/mix-fast.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/mix-fast/mix-fast.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mix/_mix" afterPath="$PROJECT_DIR$/plugins/mix/_mix" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mosh/mosh.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/mosh/mosh.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mvn/README.md" afterPath="$PROJECT_DIR$/plugins/mvn/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mvn/mvn.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/mvn/mvn.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/mysql-macports/mysql-macports.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/mysql-macports/mysql-macports.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nanoc/_nanoc" afterPath="$PROJECT_DIR$/plugins/nanoc/_nanoc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nanoc/nanoc.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/nanoc/nanoc.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ng/README.md" afterPath="$PROJECT_DIR$/plugins/ng/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ng/ng.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/ng/ng.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nmap/README.md" afterPath="$PROJECT_DIR$/plugins/nmap/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nmap/nmap.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/nmap/nmap.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/node/node.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/node/node.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nomad/README.md" afterPath="$PROJECT_DIR$/plugins/nomad/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nomad/_nomad" afterPath="$PROJECT_DIR$/plugins/nomad/_nomad" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/npm/npm.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/npm/npm.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nvm/_nvm" afterPath="$PROJECT_DIR$/plugins/nvm/_nvm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nvm/nvm.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/nvm/nvm.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/nyan/nyan.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/nyan/nyan.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/osx/README.md" afterPath="$PROJECT_DIR$/plugins/osx/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/osx/osx.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/osx/osx.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pass/_pass" afterPath="$PROJECT_DIR$/plugins/pass/_pass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/paver/paver.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/paver/paver.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pep8/_pep8" afterPath="$PROJECT_DIR$/plugins/pep8/_pep8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/per-directory-history/README.md" afterPath="$PROJECT_DIR$/plugins/per-directory-history/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/per-directory-history/per-directory-history.zsh" afterPath="$PROJECT_DIR$/plugins/per-directory-history/per-directory-history.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/perl/perl.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/perl/perl.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/perms/README.md" afterPath="$PROJECT_DIR$/plugins/perms/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/perms/perms.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/perms/perms.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phing/phing.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/phing/phing.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pip/_pip" afterPath="$PROJECT_DIR$/plugins/pip/_pip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pip/pip.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/pip/pip.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pj/README.md" afterPath="$PROJECT_DIR$/plugins/pj/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pj/pj.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/pj/pj.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pod/_pod" afterPath="$PROJECT_DIR$/plugins/pod/_pod" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/postgres/postgres.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/postgres/postgres.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pow/pow.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/pow/pow.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/powder/_powder" afterPath="$PROJECT_DIR$/plugins/powder/_powder" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/powify/_powify" afterPath="$PROJECT_DIR$/plugins/powify/_powify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/profiles/profiles.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/profiles/profiles.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pyenv/pyenv.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/pyenv/pyenv.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pylint/_pylint" afterPath="$PROJECT_DIR$/plugins/pylint/_pylint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/pylint/pylint.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/pylint/pylint.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/python/_python" afterPath="$PROJECT_DIR$/plugins/python/_python" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/python/python.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/python/python.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rails/_rails" afterPath="$PROJECT_DIR$/plugins/rails/_rails" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rails/rails.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rails/rails.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rake-fast/README.md" afterPath="$PROJECT_DIR$/plugins/rake-fast/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rake-fast/rake-fast.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rake-fast/rake-fast.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rake/rake.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rake/rake.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rand-quote/rand-quote.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rand-quote/rand-quote.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rbenv/rbenv.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rbenv/rbenv.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rbfu/rbfu.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rbfu/rbfu.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/react-native/README.md" afterPath="$PROJECT_DIR$/plugins/react-native/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/react-native/_react-native" afterPath="$PROJECT_DIR$/plugins/react-native/_react-native" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/react-native/react-native.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/react-native/react-native.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rebar/_rebar" afterPath="$PROJECT_DIR$/plugins/rebar/_rebar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/redis-cli/_redis-cli" afterPath="$PROJECT_DIR$/plugins/redis-cli/_redis-cli" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/repo/README.md" afterPath="$PROJECT_DIR$/plugins/repo/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/repo/_repo" afterPath="$PROJECT_DIR$/plugins/repo/_repo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/repo/repo.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/repo/repo.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rsync/rsync.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rsync/rsync.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ruby/ruby.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/ruby/ruby.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rust/_rust" afterPath="$PROJECT_DIR$/plugins/rust/_rust" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/rvm/rvm.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/rvm/rvm.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/safe-paste/safe-paste.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/safe-paste/safe-paste.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/sbt/_sbt" afterPath="$PROJECT_DIR$/plugins/sbt/_sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/sbt/sbt.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/sbt/sbt.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/scala/_scala" afterPath="$PROJECT_DIR$/plugins/scala/_scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/scd/README.md" afterPath="$PROJECT_DIR$/plugins/scd/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/scd/scd.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/scd/scd.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/screen/screen.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/screen/screen.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/scw/README.md" afterPath="$PROJECT_DIR$/plugins/scw/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/scw/_scw" afterPath="$PROJECT_DIR$/plugins/scw/_scw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/sfffe/sfffe.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/sfffe/sfffe.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/shrink-path/README.md" afterPath="$PROJECT_DIR$/plugins/shrink-path/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/shrink-path/shrink-path.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/shrink-path/shrink-path.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/singlechar/singlechar.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/singlechar/singlechar.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/spring/README.md" afterPath="$PROJECT_DIR$/plugins/spring/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/spring/_spring" afterPath="$PROJECT_DIR$/plugins/spring/_spring" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/sprunge/sprunge.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/sprunge/sprunge.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ssh-agent/README.md" afterPath="$PROJECT_DIR$/plugins/ssh-agent/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ssh-agent/ssh-agent.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/ssh-agent/ssh-agent.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/stack/stack.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/stack/stack.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/sublime/README.md" afterPath="$PROJECT_DIR$/plugins/sublime/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/sublime/sublime.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/sublime/sublime.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/sudo/sudo.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/sudo/sudo.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/supervisor/_supervisorctl" afterPath="$PROJECT_DIR$/plugins/supervisor/_supervisorctl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/supervisor/_supervisord" afterPath="$PROJECT_DIR$/plugins/supervisor/_supervisord" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/supervisor/supervisor.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/supervisor/supervisor.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/suse/suse.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/suse/suse.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/svn-fast-info/svn-fast-info.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/svn-fast-info/svn-fast-info.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/svn/README.md" afterPath="$PROJECT_DIR$/plugins/svn/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/svn/svn.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/svn/svn.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/swiftpm/README.md" afterPath="$PROJECT_DIR$/plugins/swiftpm/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/swiftpm/swiftpm.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/swiftpm/swiftpm.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/symfony/symfony.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/symfony/symfony.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/symfony2/symfony2.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/symfony2/symfony2.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/systemadmin/systemadmin.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/systemadmin/systemadmin.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/systemd/systemd.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/systemd/systemd.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/taskwarrior/README.md" afterPath="$PROJECT_DIR$/plugins/taskwarrior/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/taskwarrior/_task" afterPath="$PROJECT_DIR$/plugins/taskwarrior/_task" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/taskwarrior/taskwarrior.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/taskwarrior/taskwarrior.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/terminalapp/terminalapp.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/terminalapp/terminalapp.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/terminitor/_terminitor" afterPath="$PROJECT_DIR$/plugins/terminitor/_terminitor" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/terraform/README.md" afterPath="$PROJECT_DIR$/plugins/terraform/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/terraform/_terraform" afterPath="$PROJECT_DIR$/plugins/terraform/_terraform" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/textastic/README.md" afterPath="$PROJECT_DIR$/plugins/textastic/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/textastic/textastic.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/textastic/textastic.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/textmate/textmate.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/textmate/textmate.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/thefuck/README.md" afterPath="$PROJECT_DIR$/plugins/thefuck/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/thefuck/thefuck.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/thefuck/thefuck.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/themes/_theme" afterPath="$PROJECT_DIR$/plugins/themes/_theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/themes/themes.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/themes/themes.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/thor/_thor" afterPath="$PROJECT_DIR$/plugins/thor/_thor" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tig/README.md" afterPath="$PROJECT_DIR$/plugins/tig/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tig/tig.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/tig/tig.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tmux-cssh/_tmux-cssh" afterPath="$PROJECT_DIR$/plugins/tmux-cssh/_tmux-cssh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tmux/tmux.extra.conf" afterPath="$PROJECT_DIR$/plugins/tmux/tmux.extra.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tmux/tmux.only.conf" afterPath="$PROJECT_DIR$/plugins/tmux/tmux.only.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tmux/tmux.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/tmux/tmux.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tmuxinator/_tmuxinator" afterPath="$PROJECT_DIR$/plugins/tmuxinator/_tmuxinator" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/torrent/torrent.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/torrent/torrent.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/tugboat/_tugboat" afterPath="$PROJECT_DIR$/plugins/tugboat/_tugboat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ubuntu/readme.md" afterPath="$PROJECT_DIR$/plugins/ubuntu/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/ubuntu/ubuntu.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/ubuntu/ubuntu.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/urltools/urltools.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/urltools/urltools.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vagrant/_vagrant" afterPath="$PROJECT_DIR$/plugins/vagrant/_vagrant" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vault/README.md" afterPath="$PROJECT_DIR$/plugins/vault/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vault/_vault" afterPath="$PROJECT_DIR$/plugins/vault/_vault" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vi-mode/README.md" afterPath="$PROJECT_DIR$/plugins/vi-mode/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vi-mode/vi-mode.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/vi-mode/vi-mode.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vim-interaction/README.md" afterPath="$PROJECT_DIR$/plugins/vim-interaction/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vim-interaction/vim-interaction.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/vim-interaction/vim-interaction.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/virtualenv/virtualenv.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/virtualenv/virtualenv.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/virtualenvwrapper/virtualenvwrapper.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/virtualenvwrapper/virtualenvwrapper.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/vundle/vundle.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/vundle/vundle.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wakeonlan/README" afterPath="$PROJECT_DIR$/plugins/wakeonlan/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wakeonlan/_wake" afterPath="$PROJECT_DIR$/plugins/wakeonlan/_wake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wakeonlan/wakeonlan.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/wakeonlan/wakeonlan.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wd/LICENSE" afterPath="$PROJECT_DIR$/plugins/wd/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wd/README.md" afterPath="$PROJECT_DIR$/plugins/wd/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wd/_wd.sh" afterPath="$PROJECT_DIR$/plugins/wd/_wd.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wd/wd.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/wd/wd.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/web-search/web-search.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/web-search/web-search.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wp-cli/README.md" afterPath="$PROJECT_DIR$/plugins/wp-cli/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/wp-cli/wp-cli.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/wp-cli/wp-cli.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/xcode/README.md" afterPath="$PROJECT_DIR$/plugins/xcode/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/xcode/_xcselv" afterPath="$PROJECT_DIR$/plugins/xcode/_xcselv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/xcode/xcode.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/xcode/xcode.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/yarn/yarn.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/yarn/yarn.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/yii/yii.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/yii/yii.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/yii2/README.md" afterPath="$PROJECT_DIR$/plugins/yii2/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/yii2/yii2.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/yii2/yii2.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/yum/yum.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/yum/yum.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/z/Makefile" afterPath="$PROJECT_DIR$/plugins/z/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/z/README" afterPath="$PROJECT_DIR$/plugins/z/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/z/z.1" afterPath="$PROJECT_DIR$/plugins/z/z.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/z/z.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/z/z.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/z/z.sh" afterPath="$PROJECT_DIR$/plugins/z/z.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zeus/README.md" afterPath="$PROJECT_DIR$/plugins/zeus/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zeus/_zeus" afterPath="$PROJECT_DIR$/plugins/zeus/_zeus" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zeus/zeus.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/zeus/zeus.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/README.txt" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-aliases.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-aliases.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-cd.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-cd.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-env.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-env.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-functions.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-functions.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-history.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-history.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-kill.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-kill.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-list.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-list.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-options.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-options.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-panelize.conf" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/.config/znt/n-panelize.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/LICENSE" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/NEWS" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/NEWS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/README.md" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/_n-kill" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/_n-kill" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-aliases" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-aliases" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-cd" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-cd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-env" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-env" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-functions" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-functions" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-help" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-help" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-history" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-history" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-kill" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-kill" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-list" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-list" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-list-draw" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-list-draw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-list-input" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-list-input" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-options" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-options" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-panelize" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/n-panelize" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-cd-widget" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-cd-widget" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-history-widget" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-history-widget" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-kill-widget" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-kill-widget" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-usetty-wrapper" afterPath="$PROJECT_DIR$/plugins/zsh-navigation-tools/znt-usetty-wrapper" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/zsh_reload/zsh_reload.plugin.zsh" afterPath="$PROJECT_DIR$/plugins/zsh_reload/zsh_reload.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/zshrc.zsh-template" afterPath="$PROJECT_DIR$/templates/zshrc.zsh-template" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/3den.zsh-theme" afterPath="$PROJECT_DIR$/themes/3den.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/Soliah.zsh-theme" afterPath="$PROJECT_DIR$/themes/Soliah.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/adben.zsh-theme" afterPath="$PROJECT_DIR$/themes/adben.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/af-magic.zsh-theme" afterPath="$PROJECT_DIR$/themes/af-magic.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/afowler.zsh-theme" afterPath="$PROJECT_DIR$/themes/afowler.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/agnoster.zsh-theme" afterPath="$PROJECT_DIR$/themes/agnoster.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/alanpeabody.zsh-theme" afterPath="$PROJECT_DIR$/themes/alanpeabody.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/amuse.zsh-theme" afterPath="$PROJECT_DIR$/themes/amuse.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/apple.zsh-theme" afterPath="$PROJECT_DIR$/themes/apple.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/arrow.zsh-theme" afterPath="$PROJECT_DIR$/themes/arrow.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/aussiegeek.zsh-theme" afterPath="$PROJECT_DIR$/themes/aussiegeek.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/avit.zsh-theme" afterPath="$PROJECT_DIR$/themes/avit.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/awesomepanda.zsh-theme" afterPath="$PROJECT_DIR$/themes/awesomepanda.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bira.zsh-theme" afterPath="$PROJECT_DIR$/themes/bira.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/blinks.zsh-theme" afterPath="$PROJECT_DIR$/themes/blinks.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bureau.zsh-theme" afterPath="$PROJECT_DIR$/themes/bureau.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/candy-kingdom.zsh-theme" afterPath="$PROJECT_DIR$/themes/candy-kingdom.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/candy.zsh-theme" afterPath="$PROJECT_DIR$/themes/candy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/clean.zsh-theme" afterPath="$PROJECT_DIR$/themes/clean.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/cloud.zsh-theme" afterPath="$PROJECT_DIR$/themes/cloud.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/crcandy.zsh-theme" afterPath="$PROJECT_DIR$/themes/crcandy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/crunch.zsh-theme" afterPath="$PROJECT_DIR$/themes/crunch.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/cypher.zsh-theme" afterPath="$PROJECT_DIR$/themes/cypher.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/dallas.zsh-theme" afterPath="$PROJECT_DIR$/themes/dallas.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/darkblood.zsh-theme" afterPath="$PROJECT_DIR$/themes/darkblood.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/daveverwer.zsh-theme" afterPath="$PROJECT_DIR$/themes/daveverwer.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/dieter.zsh-theme" afterPath="$PROJECT_DIR$/themes/dieter.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/dogenpunk.zsh-theme" afterPath="$PROJECT_DIR$/themes/dogenpunk.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/dpoggi.zsh-theme" afterPath="$PROJECT_DIR$/themes/dpoggi.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/dst.zsh-theme" afterPath="$PROJECT_DIR$/themes/dst.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/dstufft.zsh-theme" afterPath="$PROJECT_DIR$/themes/dstufft.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/duellj.zsh-theme" afterPath="$PROJECT_DIR$/themes/duellj.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/eastwood.zsh-theme" afterPath="$PROJECT_DIR$/themes/eastwood.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/edvardm.zsh-theme" afterPath="$PROJECT_DIR$/themes/edvardm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/emotty.zsh-theme" afterPath="$PROJECT_DIR$/themes/emotty.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/essembeh.zsh-theme" afterPath="$PROJECT_DIR$/themes/essembeh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/evan.zsh-theme" afterPath="$PROJECT_DIR$/themes/evan.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/example.zsh-theme" afterPath="$PROJECT_DIR$/themes/example.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/fino-time.zsh-theme" afterPath="$PROJECT_DIR$/themes/fino-time.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/fino.zsh-theme" afterPath="$PROJECT_DIR$/themes/fino.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/fishy.zsh-theme" afterPath="$PROJECT_DIR$/themes/fishy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/flazz.zsh-theme" afterPath="$PROJECT_DIR$/themes/flazz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/fletcherm.zsh-theme" afterPath="$PROJECT_DIR$/themes/fletcherm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/fox.zsh-theme" afterPath="$PROJECT_DIR$/themes/fox.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/frisk.zsh-theme" afterPath="$PROJECT_DIR$/themes/frisk.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/frontcube.zsh-theme" afterPath="$PROJECT_DIR$/themes/frontcube.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/funky.zsh-theme" afterPath="$PROJECT_DIR$/themes/funky.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/fwalch.zsh-theme" afterPath="$PROJECT_DIR$/themes/fwalch.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gallifrey.zsh-theme" afterPath="$PROJECT_DIR$/themes/gallifrey.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gallois.zsh-theme" afterPath="$PROJECT_DIR$/themes/gallois.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/garyblessington.zsh-theme" afterPath="$PROJECT_DIR$/themes/garyblessington.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gentoo.zsh-theme" afterPath="$PROJECT_DIR$/themes/gentoo.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/geoffgarside.zsh-theme" afterPath="$PROJECT_DIR$/themes/geoffgarside.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gianu.zsh-theme" afterPath="$PROJECT_DIR$/themes/gianu.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gnzh.zsh-theme" afterPath="$PROJECT_DIR$/themes/gnzh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gozilla.zsh-theme" afterPath="$PROJECT_DIR$/themes/gozilla.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/half-life.zsh-theme" afterPath="$PROJECT_DIR$/themes/half-life.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/humza.zsh-theme" afterPath="$PROJECT_DIR$/themes/humza.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/imajes.zsh-theme" afterPath="$PROJECT_DIR$/themes/imajes.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/intheloop.zsh-theme" afterPath="$PROJECT_DIR$/themes/intheloop.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/itchy.zsh-theme" afterPath="$PROJECT_DIR$/themes/itchy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jaischeema.zsh-theme" afterPath="$PROJECT_DIR$/themes/jaischeema.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jbergantine.zsh-theme" afterPath="$PROJECT_DIR$/themes/jbergantine.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jispwoso.zsh-theme" afterPath="$PROJECT_DIR$/themes/jispwoso.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jnrowe.zsh-theme" afterPath="$PROJECT_DIR$/themes/jnrowe.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jonathan.zsh-theme" afterPath="$PROJECT_DIR$/themes/jonathan.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/josh.zsh-theme" afterPath="$PROJECT_DIR$/themes/josh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jreese.zsh-theme" afterPath="$PROJECT_DIR$/themes/jreese.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/jtriley.zsh-theme" afterPath="$PROJECT_DIR$/themes/jtriley.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/juanghurtado.zsh-theme" afterPath="$PROJECT_DIR$/themes/juanghurtado.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/junkfood.zsh-theme" afterPath="$PROJECT_DIR$/themes/junkfood.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/kafeitu.zsh-theme" afterPath="$PROJECT_DIR$/themes/kafeitu.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/kardan.zsh-theme" afterPath="$PROJECT_DIR$/themes/kardan.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/kennethreitz.zsh-theme" afterPath="$PROJECT_DIR$/themes/kennethreitz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/kiwi.zsh-theme" afterPath="$PROJECT_DIR$/themes/kiwi.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/kolo.zsh-theme" afterPath="$PROJECT_DIR$/themes/kolo.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/kphoen.zsh-theme" afterPath="$PROJECT_DIR$/themes/kphoen.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/lambda.zsh-theme" afterPath="$PROJECT_DIR$/themes/lambda.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/linuxonly.zsh-theme" afterPath="$PROJECT_DIR$/themes/linuxonly.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/lukerandall.zsh-theme" afterPath="$PROJECT_DIR$/themes/lukerandall.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/macovsky-ruby.zsh-theme" afterPath="$PROJECT_DIR$/themes/macovsky-ruby.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/macovsky.zsh-theme" afterPath="$PROJECT_DIR$/themes/macovsky.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/maran.zsh-theme" afterPath="$PROJECT_DIR$/themes/maran.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mgutz.zsh-theme" afterPath="$PROJECT_DIR$/themes/mgutz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mh.zsh-theme" afterPath="$PROJECT_DIR$/themes/mh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/michelebologna.zsh-theme" afterPath="$PROJECT_DIR$/themes/michelebologna.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mikeh.zsh-theme" afterPath="$PROJECT_DIR$/themes/mikeh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/miloshadzic.zsh-theme" afterPath="$PROJECT_DIR$/themes/miloshadzic.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/minimal.zsh-theme" afterPath="$PROJECT_DIR$/themes/minimal.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mira.zsh-theme" afterPath="$PROJECT_DIR$/themes/mira.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mortalscumbag.zsh-theme" afterPath="$PROJECT_DIR$/themes/mortalscumbag.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mrtazz.zsh-theme" afterPath="$PROJECT_DIR$/themes/mrtazz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/murilasso.zsh-theme" afterPath="$PROJECT_DIR$/themes/murilasso.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/muse.zsh-theme" afterPath="$PROJECT_DIR$/themes/muse.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/nanotech.zsh-theme" afterPath="$PROJECT_DIR$/themes/nanotech.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/nebirhos.zsh-theme" afterPath="$PROJECT_DIR$/themes/nebirhos.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/nicoulaj.zsh-theme" afterPath="$PROJECT_DIR$/themes/nicoulaj.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/norm.zsh-theme" afterPath="$PROJECT_DIR$/themes/norm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/obraun.zsh-theme" afterPath="$PROJECT_DIR$/themes/obraun.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/peepcode.zsh-theme" afterPath="$PROJECT_DIR$/themes/peepcode.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/philips.zsh-theme" afterPath="$PROJECT_DIR$/themes/philips.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pmcgee.zsh-theme" afterPath="$PROJECT_DIR$/themes/pmcgee.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pure.zsh-theme" afterPath="$PROJECT_DIR$/themes/pure.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/pygmalion.zsh-theme" afterPath="$PROJECT_DIR$/themes/pygmalion.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/re5et.zsh-theme" afterPath="$PROJECT_DIR$/themes/re5et.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/refined.zsh-theme" afterPath="$PROJECT_DIR$/themes/refined.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/rgm.zsh-theme" afterPath="$PROJECT_DIR$/themes/rgm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/risto.zsh-theme" afterPath="$PROJECT_DIR$/themes/risto.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/rixius.zsh-theme" afterPath="$PROJECT_DIR$/themes/rixius.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/rkj-repos.zsh-theme" afterPath="$PROJECT_DIR$/themes/rkj-repos.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/rkj.zsh-theme" afterPath="$PROJECT_DIR$/themes/rkj.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/robbyrussell.zsh-theme" afterPath="$PROJECT_DIR$/themes/robbyrussell.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sammy.zsh-theme" afterPath="$PROJECT_DIR$/themes/sammy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/simonoff.zsh-theme" afterPath="$PROJECT_DIR$/themes/simonoff.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/simple.zsh-theme" afterPath="$PROJECT_DIR$/themes/simple.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/skaro.zsh-theme" afterPath="$PROJECT_DIR$/themes/skaro.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/smt.zsh-theme" afterPath="$PROJECT_DIR$/themes/smt.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sonicradish.zsh-theme" afterPath="$PROJECT_DIR$/themes/sonicradish.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sorin.zsh-theme" afterPath="$PROJECT_DIR$/themes/sorin.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sporty_256.zsh-theme" afterPath="$PROJECT_DIR$/themes/sporty_256.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/steeef.zsh-theme" afterPath="$PROJECT_DIR$/themes/steeef.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/strug.zsh-theme" afterPath="$PROJECT_DIR$/themes/strug.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sunaku.zsh-theme" afterPath="$PROJECT_DIR$/themes/sunaku.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/sunrise.zsh-theme" afterPath="$PROJECT_DIR$/themes/sunrise.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/superjarin.zsh-theme" afterPath="$PROJECT_DIR$/themes/superjarin.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/suvash.zsh-theme" afterPath="$PROJECT_DIR$/themes/suvash.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/takashiyoshida.zsh-theme" afterPath="$PROJECT_DIR$/themes/takashiyoshida.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/terminalparty.zsh-theme" afterPath="$PROJECT_DIR$/themes/terminalparty.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/theunraveler.zsh-theme" afterPath="$PROJECT_DIR$/themes/theunraveler.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/tjkirch.zsh-theme" afterPath="$PROJECT_DIR$/themes/tjkirch.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/tjkirch_mod.zsh-theme" afterPath="$PROJECT_DIR$/themes/tjkirch_mod.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/tonotdo.zsh-theme" afterPath="$PROJECT_DIR$/themes/tonotdo.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/trapd00r.zsh-theme" afterPath="$PROJECT_DIR$/themes/trapd00r.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/wedisagree.zsh-theme" afterPath="$PROJECT_DIR$/themes/wedisagree.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/wezm+.zsh-theme" afterPath="$PROJECT_DIR$/themes/wezm+.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/wezm.zsh-theme" afterPath="$PROJECT_DIR$/themes/wezm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/wuffers.zsh-theme" afterPath="$PROJECT_DIR$/themes/wuffers.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/xiong-chiamiov-plus.zsh-theme" afterPath="$PROJECT_DIR$/themes/xiong-chiamiov-plus.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/xiong-chiamiov.zsh-theme" afterPath="$PROJECT_DIR$/themes/xiong-chiamiov.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/ys.zsh-theme" afterPath="$PROJECT_DIR$/themes/ys.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/zhann.zsh-theme" afterPath="$PROJECT_DIR$/themes/zhann.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/check_for_upgrade.sh" afterPath="$PROJECT_DIR$/tools/check_for_upgrade.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/uninstall.sh" afterPath="$PROJECT_DIR$/tools/uninstall.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/upgrade.sh" afterPath="$PROJECT_DIR$/tools/upgrade.sh" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="64">
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="959" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name=".oh-my-zsh" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".oh-my-zsh" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.10.1/bin/node" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78cd905c-144f-4bc2-b1e4-8a8ae1b30111" name="Default" comment="" />
+      <created>1532758767448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532758767448</updated>
+      <workItem from="1532758768996" duration="57000" />
+      <workItem from="1532758873415" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="161000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="959" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
